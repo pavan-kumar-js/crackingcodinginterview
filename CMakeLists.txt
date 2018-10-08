@@ -3,4 +3,4 @@ project(cci)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(crackingcodinginterview solutions/first.cpp)
+add_executable(crackingcodinginterview solutions/Datastructures/reverseString.cpp)
